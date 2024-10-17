@@ -1,4 +1,4 @@
 # GIT_DEMO
-THIS IS MY GIT_DEMO PROJECT
-<br>
 Hi I am Nithin
+<br>
+This is my git learning repo
